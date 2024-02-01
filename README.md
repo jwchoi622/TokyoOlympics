@@ -10,5 +10,12 @@ This project is an Azure-based data engineering project, focusing on the entire 
 - Azure Data Lake
 - Tableau
 
-Below you can read my Medium article for a better understanding of the project.
-https://medium.com/@jwchoi622/end-to-end-azure-data-engineering-project-73ade8163e91
+## Additional Resources
+
+For more detailed insights and visual representations of the data analyzed in this project, refer to the following resources:
+- **Project Walkthrough on Medium**: A comprehensive overview of the project's data engineering process on Azure. [Read the article here](https://medium.com/@jwchoi622/end-to-end-azure-data-engineering-project-73ade8163e91).
+
+- **Tokyo Olympics Dashboard on Tableau**: Interactive visualizations showcasing insights derived from the Tokyo Olympics dataset. [View the dashboard here](https://public.tableau.com/app/profile/james.choi1221/viz/TokyoOlympics_17022794668810/TokyoOlympicsDashboard?publish=yes).
+
+
+
