@@ -1,6 +1,14 @@
-# Tokyo Olympics Data
+# End-to-End Azure Data Engineering Project
 
-This project explores the data engineering process using Azure's platform, focusing on building familiarity with Azure services beyond Synapse Analytics. It starts with a Kaggle dataset, transitioning through data ingestion and transformation using Azure Data Factory and Databricks, to analytics with Azure Synapse Analytics. The project culminates in visualizations with Tableau due to platform compatibility issues with Power BI. This hands-on experience aims to deepen understanding of Azure's data services, showcasing a practical approach to designing data pipelines and extracting insights.
+## Overview
+This project is an Azure-based data engineering project, focusing on the entire data pipeline from ingestion to visualization. It starts with data preprocessing, leveraging Azure Data Factory for ingestion and Databricks for transformation. The project demonstrates effective use of Azure's ecosystem, emphasizing learning and skill development within Azure services. Key components include handling Kaggle datasets, data transformation, analytics with Azure Synapse, and visualization with Tableau due to compatibility considerations. This project serves as an introductory exploration into Azure platform capabilities, data pipeline design, and data insight generation.
+
+## Technologies Used
+- Azure Data Factory
+- Azure Databricks
+- Azure SQL Database
+- Azure Data Lake
+- Tableau
 
 Below you can read my Medium article for a better understanding of the project.
 https://medium.com/@jwchoi622/end-to-end-azure-data-engineering-project-73ade8163e91
