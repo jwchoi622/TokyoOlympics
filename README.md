@@ -12,7 +12,7 @@ Azure Data Lake
 Tableau  
 
 ##  **추가 자료**
-Medium 프로젝트 블로그: Azure에서의 프로젝트 데이터 엔지니어링 과정에 대한 종합적인 개요입니다. [블로그 글](https://medium.com/@jwchoi622/end-to-end-azure-data-engineering-project-73ade8163e91). 
+Medium 프로젝트 블로그: Azure에서의 프로젝트 데이터 엔지니어링 과정에 대한 종합적인 개요입니다. [블로그 글](https://medium.com/@jwchoi622/end-to-end-azure-data-engineering-project-73ade8163e91).   
 Tableau 대시보드: 도쿄 올림픽 데이터셋에서 파생된 인사이트를 보여주는 인터랙티브 시각화입니다. [대시보드](https://public.tableau.com/app/profile/james.choi1221/viz/TokyoOlympics_17022794668810/TokyoOlympicsDashboard?publish=yes).  
 
 # End-to-End Azure Data Engineering Project
