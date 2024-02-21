@@ -1,7 +1,9 @@
 # **앤드 투 앤드 Azure 데이터 엔지니어링 프로젝트**
 
 ## **개요**
-이 프로젝트는 데이터 수집부터 시각화까지 전체 데이터 파이프라인에 중점을 둔 Azure 기반 데이터 엔지니어링 프로젝트입니다. Azure Data Factory를 활용한 데이터 전처리로 시작하여 Databricks에서 변환을 진행합니다. 프로젝트는 Azure의 생태계를 효과적으로 활용하며, Azure 서비스 내에서의 학습 및 기술 개발을 강조합니다. 주요 구성 요소로는 Kaggle 데이터셋 처리, 데이터 변환, Azure Synapse를 이용한 분석, 호환성 고려 사항으로 인한 Tableau를 이용한 시각화가 포함됩니다. 이 프로젝트는 Azure 플랫폼 기능, 데이터 파이프라인 설계, 데이터 인사이트 생성으로의 입문적 탐구를 제공합니다.
+이 프로젝트는 데이터 수집부터 시각화까지 전체 데이터 파이프라인에 중점을 둔 Azure 기반 데이터 엔지니어링 프로젝트입니다. Azure Data Factory를 활용한 데이터 전처리로 시작하여 Databricks에서 변환을 진행합니다. 본 프로젝트에서는 Azure 서비스 내에서의 학습 및 기술 개발에 주안점을 둔 Azure 에코시스템을 효과적으로 활용하고 있습니다. 
+
+주요 구성 요소로는 Kaggle 데이터셋 처리, 데이터 변환, Azure Synapse를 이용한 분석, 호환성 고려한 Tableau를 이용한 시각화가 포함되었습니다. 이 프로젝트를 통하여 Azure 플랫폼 기능, 데이터 파이프라인 설계, 데이터 인사이트 생성까지의 앤드 투 앤드 데이터 프로젝트를 수행하였습니다.
 
 
 ## **사용된 기능**
@@ -13,7 +15,8 @@
 
 ##  **추가 자료**
 **Medium 프로젝트 블로그:** Azure에서의 프로젝트 데이터 엔지니어링 과정에 대한 종합적인 개요입니다. [블로그 글](https://medium.com/@jwchoi622/end-to-end-azure-data-engineering-project-73ade8163e91).   
-**Tableau 대시보드:** 도쿄 올림픽 데이터셋에서 파생된 인사이트를 보여주는 인터랙티브 시각화입니다. [대시보드](https://public.tableau.com/app/profile/james.choi1221/viz/TokyoOlympics_17022794668810/TokyoOlympicsDashboard?publish=yes).  
+**Tableau 대시보드:** 도쿄 올림픽 데이터셋에서 파생된 인사이트를 보여주는 인터랙티브 시각화입니다. [대시보드](https://public.tableau.com/app/profile/james.choi1221/viz/TokyoOlympics_17022794668810/TokyoOlympicsDashboard?publish=yes). 
+
 
 # End-to-End Azure Data Engineering Project
 ## Overview
